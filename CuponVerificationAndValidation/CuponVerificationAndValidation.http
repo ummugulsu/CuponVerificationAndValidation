@@ -1,0 +1,6 @@
+@CuponVerificationAndValidation_HostAddress = http://localhost:5208
+
+GET {{CuponVerificationAndValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
